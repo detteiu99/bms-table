@@ -2,5 +2,10 @@
 "name" : "でっていう99難易度表",
 "symbol" : "det",
 "data_url" : "https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLhEEoku62bUiNusnLYtkxheMBcwVEjBI1uuLioOs4TEGRH2jXOZaMP0u993Orri2goebzVgFDe0cVmD9yCVv6KVVFP4jxTB4wclzA0-iPx3EgrjjkeSRGq0PoR3IC4qTi-3qTD28DXu60WfCWDoPktMXBh7qDNo2HwJGaahA8pe_AVPZokcDbkBawTcGC1WxqzogPOEZXDkimfBhwcjK4zSZd37cd-l3_R94YRut-8AM1iyDisXPd9htOf-CLT9gSzjgyUJKuCwM8VuGIfmZTJROSWFtFkyUCpjKEO5&lib=MX74JfOvFKeDvifjQOKZAHgtBximQFxw9",
-"level_order" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]  
-}
+"level_order" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25],
+"course":[
+{"name":"でっていう99 第1回腕試し 初級","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["f1e34dd45ab037a3a696a1ed92af161e","73d0696e314a6706678fb8fc3182df08","6a20f62c07a3cda3414fe450bfde9978","150d43c0a04c896c89578ed46175f038"]},
+{"name":"でっていう99 第1回腕試し 中級","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["b9914020187c60df38259fae06f36249","b9d1e09089815ead0cdea8d0d44bfaaf","41cdd9c31c13697a8cc673e0a2ac15d5","ee8fb957c1655fd69b04558acbb4799f"]},
+{"name":"でっていう99 第1回腕試し 上級","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["6640ae14d3b7e87fc10945b82a6118d9","740af220ef2a9e1722948982ecabff21","3be613d2b9f0f426c02fe986119eedd9","9926405ee81b2ef2ea02d8bdf99367ee"]},
+{"name":"でっていう99 第1回腕試し 超級","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["1de992f1e7825bfdea24ddafb7c3f41b","e86ea1da5895178a49f1f42b57ba245c","1e06fcb3f3c7f5f2af5fdb16bfc9027f","295f7bf087f2daf52e2cad22aceb481d"]},
+]}
